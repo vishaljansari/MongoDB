@@ -1,7 +1,7 @@
 {
   "name": "mongodb",
   "version": "1.0.0",
-  "description": "fundamentals of mongDB",
+  "description": "fundamentals of mongoDB",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
